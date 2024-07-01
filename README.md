@@ -1,1 +1,3 @@
-# Oiduts-Studio-Web
+# Oidutsstudio.github.io
+
+Welcome!
